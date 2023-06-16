@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+  .navbar-item{
+    @apply font-main font-semibold text-lg text-[#273c75]
+    }
+}
